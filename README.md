@@ -63,7 +63,6 @@ Technologies Used
 	•	APIs: For interacting with external services (buying portal, AutoFBA panel, Ungating software)
 
 Project Structure
-
 product_allocation_system/
 │
 ├── app/
@@ -90,7 +89,6 @@ product_allocation_system/
 ├── config.py
 ├── requirements.txt
 └── run.py
-
 
 
 
